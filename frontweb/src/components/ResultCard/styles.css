@@ -1,0 +1,25 @@
+.result-seach-container {
+    background-color: #FFF;
+    width: 100%;
+    height: 40px;
+    border-radius: 5px;
+    padding: 10px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row;
+    margin-bottom: 10px;
+    border: 1px solid #E5E5E5;
+}
+
+.result-seach-title {
+  color: #515151;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.result-seach-description {
+  color: #515151;
+  font-size: 14px;
+  margin: 0;
+  
+}

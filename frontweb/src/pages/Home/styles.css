@@ -1,0 +1,20 @@
+.home-container-desafio {
+    padding: 10px;
+}
+
+.home-container-desafio p{
+    font-size: 18px;
+    font-weight: bold;
+    color: #7E7E7E;
+    align-items: center;
+}
+
+@media (min-width: 768px) {
+    .home-container-desafio {
+        padding: 40px;
+    }
+    
+    .home-container-desafio p{
+        font-size: 24px;
+    }
+}
